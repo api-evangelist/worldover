@@ -1,8 +1,15 @@
 aid: worldover
 name: Worldover
-description: 'Worldover is a company surfaced as a portfolio company of index-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: business-applications. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  Worldover is the AI operating system for chemicals and cosmetics companies,
+  replacing fragmented ERP, PLM, QMS, LIMS, and regulatory tools with one
+  AI-orchestrated system custom-built around each team's workflows. Powered by
+  Willow, its chemical and regulatory intelligence engine, it runs AI agents for
+  demand planning, regulatory monitoring, quality, formulation R&D, supply
+  chain, SDS authoring, and PLM updates. Headquartered in London and backed by
+  Index Ventures, Chalfen, and EF, Worldover serves beauty brands,
+  manufacturers, ingredient providers, distributors, and pharma and supplements
+  companies. No public developer API is published.
 url: https://raw.githubusercontent.com/api-evangelist/worldover/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +17,30 @@ x-backed-by:
 - index-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://worldover.io/webclip.png
 tags:
 - Company
 - Business Applications
+- Cosmetics
+- Chemicals
+- Regulatory Compliance
+- Quality Management
+- ERP
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,30 @@ maintainers:
 common:
 - type: Website
   url: https://www.worldover.io/
+- type: Blog
+  url: https://worldover.io/blog
+- type: Integrations
+  url: https://worldover.io/integrations
+- type: Careers
+  url: https://worldover.io/careers
+- type: Contact
+  url: https://worldover.io/contact
+- type: Login
+  url: https://app.worldover.io/
+- type: TermsOfService
+  url: https://worldover.io/legal/worldover-terms-of-use.pdf
+- type: LinkedIn
+  url: https://www.linkedin.com/company/worldover
+- type: LLMsTxt
+  url: llms/worldover-llms.txt
+- type: TrustCenter
+  url: security/worldover-trust-center.yml
+- type: Compliance
+  url: security/worldover-trust-center.yml
+- type: DomainSecurity
+  url: security/worldover-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1

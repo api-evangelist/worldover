@@ -1,0 +1,29 @@
+# Worldover
+
+> Worldover™ is the AI operating system for chemicals and cosmetics companies. It replaces ERP, PLM, QMS, LIMS and regulatory tools with one AI-orchestrated system, custom-built around the way each team works. Powered by Willow, our chemical and regulatory intelligence engine. Live in three months. At least 30% cheaper than your current software stack, guaranteed. Backed by Index Ventures, Chalfen and EF. HQ in Camden, London.
+
+## What Worldover does
+- Replaces fragmented ERP, PLM, QMS, LIMS, regulatory, R&D, quality and FP&A tools with one system, customised to each business.
+- Provides AI agents for demand planning, regulatory monitoring, quality, formulation R&D, project management, supply chain, SDS authoring and PLM updates, all running inside live customer data with permissions, approvals and audit trails.
+- Powers every workflow with a chemical intelligence engine called Willow, which understands ingredient identity, jurisdictional regulatory limits, substitution implications and the relationships between substances.
+
+## Who Worldover serves
+- Beauty brands (indie to global)
+- Manufacturers
+- Ingredient providers and distributors
+- Pharma and supplements companies
+- Chemicals and cosmetics companies that need software shaped around their real workflows
+
+## Key facts
+- Headquartered in London, United Kingdom.
+- Customers include HUDA Beauty, ICONIC London, The White Company, Rodial, Augustinus Bader, Elevation Labs and others.
+- Average customer reduces compliance overhead by 94% and regulatory response time by 100x.
+- Worldover guarantees at least a 30% reduction in total software spend.
+
+## Pages
+- [Home](https://worldover.io/)
+- [For Beauty Brands](https://worldover.io/for/beauty-brands)
+- [For Manufacturers](https://worldover.io/for/contract-manufacturers)
+- [For Ingredient Providers](https://worldover.io/for/ingredient-providers)
+- [For Distributors](https://worldover.io/for/distributors)
+- [For Pharma & Supplements](https://worldover.io/for/pharma)

@@ -1,0 +1,25 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of worldover hosts
+note: >-
+  Probed the standard /.well-known/ discovery surface across the primary Worldover
+  hosts. None returned 200; recorded here as honest negative results. No WellKnown
+  or SecurityTxt pointer is emitted because nothing was found. Note the marketing
+  site (worldover.io) serves an SPA catch-all that returns 200 for arbitrary HTML
+  paths, but /.well-known/ paths return real 404s. A genuine /llms.txt does exist
+  (see llms/worldover-llms.txt).
+hosts:
+- host: https://worldover.io
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/openid-configuration, status: 404}
+  - {path: /.well-known/oauth-authorization-server, status: 404}
+  - {path: /.well-known/api-catalog, status: 404}
+  - {path: /.well-known/ai-plugin.json, status: 404}
+- host: https://www.worldover.io
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+- host: https://app.worldover.io
+  documents:
+  - {path: /.well-known/security.txt, status: 404}
+  - {path: /.well-known/openid-configuration, status: 404}
